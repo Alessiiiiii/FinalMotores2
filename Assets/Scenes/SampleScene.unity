@@ -506,6 +506,18 @@ PrefabInstance:
       value: Mundo
       objectReference: {fileID: 0}
     - target: {fileID: 7213368506573618861, guid: 4cc16243a2e6aff488bced278f3011aa, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7213368506573618861, guid: 4cc16243a2e6aff488bced278f3011aa, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7213368506573618861, guid: 4cc16243a2e6aff488bced278f3011aa, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7213368506573618861, guid: 4cc16243a2e6aff488bced278f3011aa, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
